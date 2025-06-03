@@ -63,8 +63,3 @@ A simple Python-based news crawler that fetches news data and outputs it in a st
 This project is licensed under the MIT License.
 
 ---
-
-```
-
-Let me know if you'd like badges, usage examples, or an architecture diagram added.
-```
